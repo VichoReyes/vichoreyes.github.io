@@ -3,8 +3,6 @@ layout: post
 title: Why is GPL use declining?
 ---
 
-# Why is GPL use declining?
-
 Today I started writing a [reply on Hacker News](https://news.ycombinator.com/item?id=21420541)
 in which I tried to answer the question in the title of this post,
 and I ended up giving my answer to what license makes a project successful too.
