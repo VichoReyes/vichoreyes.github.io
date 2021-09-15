@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Xbox Series S is brilliant
+title: The Xbox Series S is brilliantly secondhand-optimized.
 ---
 
 This generation, Microsoft simultaneously launched two consoles, the Xbox Series X (the powerful, expensive one) and the Series S, a smaller and cheaper all-digital version, that should run all the same games, but with weaker graphics.
