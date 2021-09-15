@@ -7,13 +7,21 @@ This generation, Microsoft simultaneously launched two consoles, the Xbox Series
 
 ![The two consoles in question.](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/2400/public/media/image/2020/09/xbox-series-x-xbox-series-s-2060597.jpg)
 
-Aside from the same games, the two consoles also share compatibility with accessories, and game progression saves are automatically synchronized.
+In this post I explain why I think this is a very smart move from Microsoft, of the 200-IQ 4D Chess kind.
 
 ## Stock shortages
 
 Just in case you don't know, the whole tech world has been facing shortages this last year, because of production issues and higher demand. The powerful consoles (PS5 and series X) and computer GPUs are frequently sold by scalpers at higher prices, with the exact prices varying by region.
 
 For some reason, however, the Series S has been more consistently available (in my country, and according to some reddit comments in other countries as well). I think this is intentional on Microsoft's part, you'll understand why if you keep on reading.
+
+## Upgrade path
+
+Unlike other consoles[^other], the Series S-to-X upgrade is probably worth doing for a lot of people, considering the graphics card is four times as powerful. And it's extremely easy to do, considering that:
+
+1. The Series S is all-digital, so you'll keep your games.
+1. Game saves are on the cloud, so you'll keep your progress on those games.
+2. All accessories are compatible with both consoles.
 
 ## Margins
 
@@ -26,13 +34,10 @@ Yet, they probably _would_ sell it for cheaper if they could, considering they m
 
 ## The second hand market
 
-Unlike other consoles[^other], the Series S-to-X upgrade is probably worth doing for a lot of people. And it's extremely easy to do, considering that:
+As previously said, the upgrade path from Series S to Series X is simple and convenient.
+So, as the stock shortages are handled, and the Series X becomes available at reasonable prices, it is very likely that people will upgrade to that one, and sell their Series S. This should inject the market with lots of used Series S's, making the price drop[^pricedrop]. 
 
-1. The Series S is all-digital, so you'll keep your games.
-1. Game saves are on the cloud, so you'll keep your progress on those games.
-2. All accessories are compatible with both consoles.
-
-So, as the stock shortages are handled, and the Series X becomes available at reasonable prices, it is very likely that people will upgrade to that one, and sell their Series S. This should inject the market with lots of used Series S's, making the price drop. And that price drop doesn't make Microsoft lose money, it's the people selling used that are taking that hit.
+[^pricedrop]: And that price drop doesn't make Microsoft lose money, it's the people selling used that are taking that hit. How cool is that?
 
 Usually, when selling a used console, people bundle it with their games. For the Series S that is close to impossible, considering it's all-digital and games are tied to your account. The console doesn't even have different colors, there is a single model, every (working) Series S should be the same. This is the closest any product can get to what economists call perfect competition.
 
