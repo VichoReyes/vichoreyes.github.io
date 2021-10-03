@@ -6,8 +6,7 @@ title: "Asistentes Virtuales: Los problemas causados por TIs ¿se pueden
 
 Llevas media hora viendo historias y publicaciones en Instagram. Te das
 cuenta de que es mucho tiempo, así que la cierras. Al ver el menú
-principal de tu teléfono, instintivamente apretas un botón. Se abre
-Instagram. ¿Cómo tan weón?
+principal de tu teléfono, instintivamente apretas un botón. Se abre de nuevo Instagram. ¿Cómo tan weón?
 
 No te culpo, me pasa lo mismo, y a muchas otras personas también.
 Además, no hay de qué avergonzarse. Estás peleando contra equipos
