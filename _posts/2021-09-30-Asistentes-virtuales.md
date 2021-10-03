@@ -100,5 +100,5 @@ principales empresas del rubro son lo que lo ha permitido, y es de
 esperarse que estos cambien a algo menos alineado con los intereses de
 las personas.
 
-[^1]: Algunas personas pensarán que esto es obvio, otras estarán
-    sorprendidas. Lo menciono para las últimas.
+[^1]: [Algunas personas pensarán que esto es obvio, otras estarán
+    sorprendidas. Lo menciono para las últimas.](https://www.cnet.com/news/owners-of-smart-speakers-use-phones-less-says-survey/)
