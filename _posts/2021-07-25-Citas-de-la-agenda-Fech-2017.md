@@ -54,7 +54,8 @@ Himno Pontificio
 Mujer apenada caminando por Avenida Grecia
 
 > -Señor Ilabaca
--Señor Yelcaballo
+>
+> -Señor Yelcaballo
 
 Amigos bromistas. Calle anónima
 
@@ -99,13 +100,16 @@ Emprendedor poniendo el pie para la compra. Facultad de Artes Centro
 Hombre que no tranza sus principios. Patio de comidas, Plaza Vespucio
 
 > -Oye hueón ¿y si llevamos un six-pack?
--Sí, puede ser ¿cuántas chelas vienen?
+>
+> -Sí, puede ser ¿cuántas chelas vienen?
 
 Joven bilingüe comprando cervezas, Líder de Vitacura
 
 > -Mamá, ¿por qué existe gente pobre?
--Porque así es la vida, mi amor.
--Pero explícame, ¿Por qué?
+>
+> -Porque así es la vida, mi amor.
+>
+> -Pero explícame, ¿Por qué?
 
 Niña de 10 años, futura revolucionaria, tras pasar frente a una población. Peñalolén
 
@@ -116,12 +120,14 @@ Niña de 10 años, futura revolucionaria, tras pasar frente a una población. Pe
 Veinteañera excusándose tras vomitar en la micro camino al carrete, Troncal 426, Providencia
 
 > -Y compraste los choripanes
--No, es que no me aceptaron la Tarjeta Junaeb
+>
+> -No, es que no me aceptaron la Tarjeta Junaeb
 
 Universitarios sin poder hacer uso de su beca de alimentación en el Bicentenario, Parque O'Higgins
 
 > -¿Compremos un Santa Helena de dos litros?
--No, es que a mí la caja de litro me da independencia
+>
+> -No, es que a mí la caja de litro me da independencia
 
 De vinos y posesiones, Jumbo, Portal Ñuñoa
 
@@ -131,7 +137,7 @@ Estudiante endeudado, sin opciones frente a la educación de mercado, Facultad d
 
 > Tenía promedio 5.1, pero me eché el ramo por inasistencia
 
-Un huón muy tonto, Instituto de la Comunicación e Imagen, Campus JGM
+Un hueón muy tonto, Instituto de la Comunicación e Imagen, Campus JGM
 
 ## Septiembre
 
@@ -154,7 +160,8 @@ Intelectual del futuro disculpándose por ser fome. Parque Bustamante
 ## Octubre
 
 > -Bien, murió el negro culiao de Obama
--No hueón murió OSAMA
+>
+> -No hueón murió OSAMA
 
 Nazis chilenos. Plaza de la Ciudadanía
 
@@ -167,8 +174,10 @@ Metalero frustrado ante el éxito del pop-indie chileno, Plaza de Maipú
 Encapuchada gritándole a los pacos, Campus Juan Gómez Millas
 
 > -Para ser hippie, hay que tener plata
--Mentira, yo igual he visto hippies pobres
--Esos se llaman vagabundos
+>
+> -Mentira, yo igual he visto hippies pobres
+>
+> -Esos se llaman vagabundos
 
 La élite intelectual debatiendo de moda y estilo, Pastos, Campus JGM
 
