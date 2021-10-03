@@ -29,16 +29,27 @@ menos su celular[^1]. De hecho, es fácil sentirse más productivo en
 general. Para observar por qué, hagamos una historia de usuario, porque
 la gente UX dice que así se hacen las cosas.
 
-> Miguelito Francisco Martínez está preparando un pollo con arroz y se
+> Miguelito está preparando un pollo con arroz y se
 > da cuenta de que le falta comino. Saca su teléfono para ponerlo en una
 > lista o recordatorio, y ve una notificación que dice que su piloto
 > favorito de Fórmula 1 subió una historia. La abre porque no se
 > demorará mucho en verla. Al cerrarla, se da cuenta de que olvidó qué
-> quería hacer. La próxima vez que Miguelito Francisco Martínez vaya al
+> quería hacer. La próxima vez que Miguelito vaya al
 > supermercado, no recordará comprar comino.
 
-Quizá si hubiera tenido un parlante inteligente, le habría dicho que
-añadiera comino a la lista y el problema habría llegado hasta ahí.
+Ahora veamos una versión de la historia de Andrea, que tiene un
+parlante inteligente:
+
+> Andrea se da cuenta de que le falta comino. Mientras cocina,
+> dice a su parlante que lo añada a su lista de compras. De este
+> modo, recuerda comprarlo la vez siguiente que va al supermercado.
+
+La diferencia en productividad se explica por una reducción en
+la información mostrada a los distintos personajes.
+Andrea, pese a ser dueña de más productos tecnológicos, no recibió
+una notificación, se vio menos expuesta a uno de los
+[antipatrones
+más efectivos](https://www.researchgate.net/publication/349816521_Discovering_the_Impact_of_Notifications_on_Social_Network_Addiction) usados por redes sociales para mantener la adicción a ellas.
 
 Con esto llegamos a **la pregunta**. ¿Cómo es esto? ¿Una empresa de
 tecnología creó un producto que *reduce* mi adicción a la tecnología?
