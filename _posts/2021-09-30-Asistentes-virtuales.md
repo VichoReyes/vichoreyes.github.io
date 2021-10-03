@@ -56,10 +56,10 @@ quedarse fuera de un mercado creciente.
 Esa es la situación en la que se encuentran actualmente Google y Apple.
 Las dos empresas más dominantes del mundo móvil están quedándose atrás
 en un mercado que progresivamente le quita importancia. Es por esto que
-ambas empresas han intentado hacer productos buenos, incluso
-sacrificando para ello ciertos trucos que suelen usar estas empresas en
-la búsqueda de ganancia. Aunque las empresas tienen distintas fuentes de
-ingresos, por lo que las cosas que sacrifican son distintas:
+ambas marcas han intentado hacer productos buenos, incluso
+sacrificando para ello ciertos trucos que suelen usar en su
+la búsqueda de ganancia. Aunque los trucos sacrificados son distintos
+para cada una, ya que varían dependiendo de sus culturas:
 
 -   Apple suele restringir fuertemente los servicios que permite usar en
     sus productos, con la intención de promover los suyos sin
