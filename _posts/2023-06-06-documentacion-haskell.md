@@ -10,8 +10,8 @@ responden que veas los tipos de la librería y lo "sabrás". Lo cual puede
 ser cierto para ciertas mentes, aunque no mucho para la mía[^mentes]. 
 
 [^mentes]: Y
-probablemente tampoco para muchas otras, como demuestra el fracaso de
-Haskell en términos de popularidad.
+  probablemente tampoco para muchas otras, como demuestra el fracaso de
+  Haskell en términos de popularidad.
 
 Ejemplos de documentación que lleva al éxito se encuentran en librerías
 famosas de Python (requests, django) o javascript, que incluyen tutoriales.
@@ -85,7 +85,7 @@ Tampoco usaría muchas dependencias, solo comprometiéndome con algunas necesari
 para lo que hacía[^lens].
 
 [^lens]: Debo decir que rompí esta regla usando `lens`, porque llevaba
-mucho tiempo queriendo aprender a usar esa librería.
+  mucho tiempo queriendo aprender a usar esa librería.
 
 ¿Cómo resultaron estas ideas? Algunas bien, otras no. La que más me arrepiento
 es parametrizar poco mis tipos. A veces uno no nota las diferencias sutiles que hay
