@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    {% block title %}
+    Vicho Reyes
+    {% endblock title %}
+  </title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+  <header>
+    <ul class="p-2 md:py-4 md:px-10 flex gap-4">
+      <li>
+        <a href="/">
+          vichoreyes.cl
+        </a>
+      </li>
+      <li>
+        <a href="/blog">Blog</a>
+      </li>
+    </ul>
+  </header>
+  <main class="container mx-auto p-2 md:p-4">
+    {% block content %} {% endblock %}
+  </main>
+</body>
+
+</html>

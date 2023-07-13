@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ section.title }} —
+{{ super() }}
+{% endblock title %}
+
+{% block content %}
+<h1 class="text-3xl">
+  {{ section.title }}
+</h1>
+{% for page in section.pages %}
+<article>
+    <h2 class="text-xl underline capitalize my-3">
+        <a href="{{ page.path | safe }}">{{ page.title }}</a>
+    </h2>
+    <!-- {{ page.content }} -->
+</article>
+{% endfor %}
+{% endblock content %}
