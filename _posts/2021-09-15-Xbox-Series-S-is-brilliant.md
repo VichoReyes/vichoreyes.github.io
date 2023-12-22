@@ -5,7 +5,7 @@ title: The Xbox Series S is brilliantly secondhand-optimized.
 
 This generation, Microsoft simultaneously launched two consoles, the Xbox Series X (the powerful, expensive one) and the Series S, a smaller and cheaper all-digital version, that should run all the same games, but with weaker graphics.
 
-![The two consoles in question.](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/2400/public/media/image/2020/09/xbox-series-x-xbox-series-s-2060597.jpg)
+![The two consoles in question.](/images/xboxes.jpeg)
 
 In this post I explain why I think this is a very smart move from Microsoft, of the 200-IQ 4D Chess kind.
 
