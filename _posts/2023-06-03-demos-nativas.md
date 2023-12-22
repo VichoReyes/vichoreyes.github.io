@@ -49,8 +49,6 @@ Here is the `<input type="text">` version:
 
 And here are versions for 5 time selection `<input>`s.
 
- datetime-local 
-
 <label>Select with type time:
 <input type="time" list="popularHours" />
 </label>
