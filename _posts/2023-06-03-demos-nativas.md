@@ -5,6 +5,10 @@ title: "Demos of native HTML things"
 
 This contains native things, to check how they work on different devices/browsers easily. Most examples are either taken from [Mozilla MDN](https://developer.mozilla.org/en-US/) directly or slightly edited.
 
+Unfortunately, these widgets are infrequently seen in the web for a reason. [They are not too accessible or usable](https://www.htmhell.dev/adventcalendar/2023/13/) forcing you to end up using a custom solution[^titleattr]. So I don't actually recommend using these widgets.
+
+[^titleattr]: I'm particularly sad about the `title` attribute. It's been used for a long time, on many websites, yet its accessibility is mediocre as per the link. And there is no native HTML alternative. One would hope the situation would improve, but I don't have any reason to believe that it will.
+
 ## Select Multiple
 
 <select multiple name="pets" id="pet-select">
