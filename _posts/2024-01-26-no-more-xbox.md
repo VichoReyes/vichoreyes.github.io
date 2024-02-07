@@ -9,6 +9,9 @@ way to force myself to do it. No more games, no more gamepass or stuff, until I 
 [^elden]: These games include Elden Ring, Yakuza 0 and Witcher 3, games I'll probably never finish, so I don't think I'm going to buy anything ever again.
 
 Why make this choice? I feel guilty about giving money to a company that
-takes the wrong road at every turn.
+takes the wrong road at every turn[^update].
 
 This means I won't play Outer Wilds, Rollerdrome or Cocoon, at least not on this platform. Well, it's impossible to play every good game that comes out.
+
+[^update]: February 7th update: Recent rumours have sort of proven me right here. The decision that originally made me post this was a group of layoffs, but now they're also going to stop having exclusives for some weird reason? A gaming company should make games IMO.
+
