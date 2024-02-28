@@ -16,7 +16,6 @@ I could even add Disqus comments easily if I wanted to.
 
 ### Contact me
 
-I should set up mails to this domain.
-In the meantime, you can send me an email at [almuerzo-bajadas.0k@icloud.com](mailto:almuerzo-bajadas.0k@icloud.com).
+You can send me an email at [blog@vichoreyes.cl](mailto:blog@vichoreyes.cl).
 
 [^titulo]: Sort of. The name of my degree is "Ingeniero Civil en Computación", which translates more closely to "Computer Engineering", with the "Civil" being there for chilean historical reasons.
