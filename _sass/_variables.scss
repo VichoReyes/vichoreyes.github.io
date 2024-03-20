@@ -4,15 +4,31 @@
 //
 
 // Colors
-$blue: #4183C4;
+:root {
+  --blue: #4183C4;
+  
+  // Grays
+  --black: #000;
+  --darkerGray: #222;
+  --darkGray: #333;
+  --gray: #666;
+  --lightGray: #eee;
+  --white: #fff;
+}
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+@media (prefers-color-scheme: dark) {
+  :root {
+    --blue: #79a0c7;
+    
+    // Grays
+    --black: #eee;
+    --darkerGray: #ddd;
+    --darkGray: #ccc;
+    --gray: #666;
+    --lightGray: #222;
+    --white: #111;
+  }
+}
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
